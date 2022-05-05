@@ -1,5 +1,6 @@
 # Deepika-Resume
 
+                                                                
                                                                 Sukhavasi Deepika
                                       9-33-8/1, Katragadda Vari Street, 16th Ward, Isukapalli, Repalle-522265
                                                                 T: +91 9090623456
@@ -9,52 +10,59 @@
                                          Seeking an Internship to enhance my skills and conquer new challenges
                                          
 Professional Summary:
-❖ Good Verbal Communication Skills
-❖ Excellent management skills
-❖ High level of attention to detail
-❖ Ability to multitask
-❖ Innovative and adaptive
-❖ Excellent analytical and critical thinking
-❖ Professional interpersonal relationship skills
-❖ Enthusiast and keen on learning new
-❖ Fast paced working, highly competent and team player oriented
+1. Good Verbal Communication Skills
+2. Excellent management skills
+3. High level of attention to detail
+4. Ability to multitask
+5. Innovative and adaptive
+6. Excellent analytical and critical thinking
+7. Professional interpersonal relationship skills
+8. Enthusiast and keen on learning new
+9. Fast paced working, highly competent and team player oriented
 
 Education Qualifications:
-❖ Pursuing Bachelor of Technology in Electronics and Communication Engineering 
- from Vellore Institute of Technology (VIT-AP)
-  2020-2024
-❖ +1/+2 (SSC Board) from Sri Chaintanya Junior College with 9.69 Cgpa
-  2018-2020
-❖ 10th (SSC Board) from RamaKrishna High School with 9.7 Cgpa
-  2017-2018
+1. Pursuing Bachelor of Technology in Electronics and Communication Engineering 
+   from Vellore Institute of Technology (VIT-AP)
+   2020-2024
+2. +1/+2 (SSC Board) from Sri Chaintanya Junior College with 9.69 Cgpa
+   2018-2020
+3. 10th (SSC Board) from RamaKrishna High School with 9.7 Cgpa
+   2017-2018
   
 Technical Knowledge:
-❖ Well Experienced on Computer Architecture design 
-❖ Command on Analog IC Design
-❖ Good at embedded C coding
+1. Well Experienced on Computer Architecture design 
+2. Command on Analog IC Design
+3. Good at embedded C coding
 
 Work Experience:
+
 Organization: CSI VIT-AP
+
 Designation: Vlearn Member
+
 Duration: December 2020 to December 2021
 
 Responsibilities:
-❖ Workshops organization
-❖ Innovative interaction on Computer Architecture field
-❖ Web developing using CSS
+1. Workshops organization
+2. Innovative interaction on Computer Architecture field
+3. Web developing using CSS
 
 Awards & Achievements:
--Won many awards in sports at School, College level
--Volunteer for “Stop Mining Bitcoin” organization
--Qualified for second stage in Spell Bee
--Received several special mentions
+1.Won many awards in sports at School, College level
+2.Volunteer for “Stop Mining Bitcoin” organization
+3.Qualified for second stage in Spell Bee
+4.Received several special mentions
 
 Personal Snippets:
-❖ Date of Birth: 09th August 2003
-❖ Languages known: Telugu, Hindi, English
+1. Date of Birth: 09th August 2003
+2. Languages known: Telugu, Hindi, English
 
                                                                Declaration
                                  I do hereby declare that the above information is true to the best of my knowledge.
                                  
 Place:
-Date:                                                                                                                                              (Sukhavasi Deepika)
+
+Date:                                                                                                                                               
+
+
+(Sukhavasi Deepika)
