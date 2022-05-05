@@ -57,8 +57,8 @@ Personal Snippets:
 1. Date of Birth: 09th August 2003
 2. Languages known: Telugu, Hindi, English
 
-                                                               Declaration
-                                 I do hereby declare that the above information is true to the best of my knowledge.
+                                                        Declaration
+                             I do hereby declare that the above information is true to the best of my knowledge.
                                  
 Place:
 
