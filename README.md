@@ -53,7 +53,7 @@ Responsibilities:
 3. Web developing using CSS
 
 Awards & Achievements:
-1. Represented VIT-AP in Samrt India Hackathon 2022
+1. Represented VIT-AP in Smart India Hackathon 2022
    (Presented an overview of Advanced Cold Storage Reservoir using LPC1768)
 2. Won many awards in sports at School, College level
 3. Volunteer for “Stop Mining Bitcoin” organization
