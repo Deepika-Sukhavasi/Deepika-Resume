@@ -53,10 +53,12 @@ Responsibilities:
 3. Web developing using CSS
 
 Awards & Achievements:
-1. Won many awards in sports at School, College level
-2. Volunteer for “Stop Mining Bitcoin” organization
-3. Qualified for second stage in Spell Bee
-4. Received several special mentions
+1. Represented VIT-AP in Samrt India Hackathon 2022
+   (Presented an overview of Advanced Cold Storage Reservoir using LPC1768)
+2. Won many awards in sports at School, College level
+3. Volunteer for “Stop Mining Bitcoin” organization
+4. Qualified for second stage in Spell Bee
+5. Received several special mentions
 
 Personal Snippets:
 1. Date of Birth: 09th August 2003
