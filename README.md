@@ -17,7 +17,7 @@ Professional Summary:
 5. Innovative and adaptive
 6. Excellent analytical and critical thinking
 7. Professional interpersonal relationship skills
-8. Enthusiast and keen on learning new
+8. Enthusiast and keen on learning new subjects
 9. Fast paced working, highly competent and team player oriented
 
 Education Qualifications:
@@ -35,12 +35,17 @@ Technical Knowledge:
 3. Good at embedded C coding
 
 Work Experience:
-
-Organization: CSI VIT-AP
-
-Designation: Vlearn Member
-
-Duration: December 2020 to December 2021
+1.Organization: CSI VIT-AP
+  Designation: Vlearn Member
+  Duration: December 2020 to December 2021
+  
+Certifications:
+1. IITH Analog IC Design Hackathon
+   Topic-CMOS Full Wave Bridge Rectifier
+   Mentioned-Good
+2. ACM VIT-AP UI/UX Battle
+   Based on UI/UX Design
+   Certified as Best Design
 
 Responsibilities:
 1. Workshops organization
