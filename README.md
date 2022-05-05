@@ -1,13 +1,13 @@
 # Deepika-Resume
 
                                                                 
-                                                                Sukhavasi Deepika
-                                      9-33-8/1, Katragadda Vari Street, 16th Ward, Isukapalli, Repalle-522265
-                                                                T: +91 9090623456
-                                                            deepikasukhavasi2003@gmail.com
+                                                            Sukhavasi Deepika
+                                   9-33-8/1, Katragadda Vari Street, 16th Ward, Isukapalli, Repalle-522265
+                                                             T: +91 9090623456
+                                                       deepikasukhavasi2003@gmail.com
                                                             
                                                             
-                                         Seeking an Internship to enhance my skills and conquer new challenges
+                                    Seeking an Internship to enhance my skills and conquer new challenges
                                          
 Professional Summary:
 1. Good Verbal Communication Skills
